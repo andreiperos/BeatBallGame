@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637768879672853171
+      ticks: 637768927765876973
     m_Hash: 2955065684
   m_LockFileStatus:
     m_FilePath: D:/UnityEditor/BitBol/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637768879792550951
+      ticks: 637768927970176306
     m_Hash: 289091398
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
